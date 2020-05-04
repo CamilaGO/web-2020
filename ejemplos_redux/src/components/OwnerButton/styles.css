@@ -1,0 +1,42 @@
+.all-owners {
+    background: black;
+    border-radius: 50px;
+    top: 150px;
+    color: white;
+    font-size: 16px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    width: 70px;
+    z-index: 2;
+}
+.inputOwner{
+    margin-left: 10px;
+    height: 28px;
+    border-radius: 5px;
+    border-color: black;
+    margin-right: 10px;
+    margin-bottom: 12px;
+}
+.owner-button{
+    margin-left: 10px;
+    height: 35px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+    background-color: seagreen;
+    color: seashell;
+}
+.ownerForm{
+    margin-top: 50px;
+    flex-direction: row;
+    padding: 10px;
+    max-width: 350px;
+    margin-left: 50px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: seagreen;
+}
